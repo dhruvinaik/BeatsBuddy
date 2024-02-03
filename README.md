@@ -68,7 +68,6 @@ Check it yourself :)
 
  By Donating, You Will Help Me To Maintain This Project 
 
-- [Upi](https://www.paypal.com/paypalme/ShubhAgarwal02)
 
 
 [version-shield]: https://img.shields.io/github/package-json/v/ShubhAgrwal/BeatsBuddy?style=for-the-badge
